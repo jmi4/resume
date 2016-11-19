@@ -1,0 +1,187 @@
+{
+  "basics": {
+    "name": "Jeremy Miller",
+    "label": "Linux Admin",
+    "picture": "",
+    "email": "jmiller3346@gmail.com",
+    "phone": "(567) 686-7085",
+    "website": "https://jeremymiller.me",
+    "summary": "Jeremy hails from North West Ohio and South East Michigan. He has earned hist Bachelors and Associate in Computer Science. Before starting Cerner, he worked for A2 Hosting as a Linux Analyst. While his work focuses being a Linux System Administrator in a large Corporate environment. His passion is in DevOps. He spends most of his personal time working on Chef Cookbooks in a CI pipeline and contributing to writing Inspec test for DISA STIGS",
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Jeremy Miller",
+        "url": "https://www.linkedin.com/in/jeremy-miller-31162949"
+      },
+      {
+        "network": "GitHub",
+        "username": "som3guy",
+        "url": "https://github.com/som3guy"
+      },
+      {
+        "network": "Stack Overflow",
+        "username": "som3guy",
+        "url": "http://stackoverflow.com/users/2847068/som3guy"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Cerner",
+      "position": "System Engineer",
+      "website": "https://cerner.com",
+      "startDate": "2014-08-01",
+      "summary": "Cerner is a health IT corporation based out of Kansas City Missouri. I work specifically in Cernerworks Emerging Technology Solutions as Linux System Administrator.",
+      "highlights": [
+        "Manage Zabbix, a monitoring solution in an n+1 highly available environment.",
+        "Work in a DevOps environment.",
+        "Experience using Chef, creating roles, environment files, encrypted data bags, and bootstrapping servers.",
+        "Writing and contributing to Chef Cookbooks.",
+        "Ruby and Bash scripting",
+        "Experience using Splunk to quickly search through logs, and create dashboards to visualize the data.",
+        "Teach other associates in areas I am more knowledgeable.",
+        "Not only work with my team to accomplish task and projects, but also with many other teams across Cerner.",
+        "Not only work with my team to accomplish task and projects, but also with many other teams across Cerner, such as: Development, networking, security, infrastructure, and management. Work on an on-call rotation as well as an on-call 24/7 for solutions I am a primary Engineer for."
+      ]
+    },
+    {
+      "company": "A2 Hosting",
+      "position": "Linux Support Analyst",
+      "website": "https://www.a2hosting.com/",
+      "startDate": "2014-02-01",
+      "endDate": "2016-07-26",
+      "summary": "A2 Hosting web hosting company based out of Ann Arbor Michigan. They offer everything from a basic website to high-performance virtual private servers.",
+      "highlights": [
+        "Work remotely from home.",
+        "Support Customers via Phone, Live Chat, and Support Tickets",
+        "Migrate client cPanel accounts from other hosts to our servers as well as internally.",
+        "I assist customers with Pre-sales and sales questions.",
+        "Provide server-side support for hosting services.",
+        "Review abusive accounts and proceed accordingly.",
+        "Work with 3rd party abuse companies to take down malicious sites."
+      ]
+    },
+    {
+      "company": "Technology Experts",
+      "position": "Department Manager",
+      "website": "http://www.mytechexperts.com/",
+      "startDate": "2012-03-01",
+      "endDate": "2014-02-01",
+      "summary": "Technology Experts is a managed service provider based out of Monroe Michigan. The provide the full IT department experience without having to hire an on-site IT staff.",
+      "highlights": [
+        "Migrated users and all data from one PC to another.",
+        "Virus Removal",
+        "Hardware and software installation.",
+        "Dealt with Software manufacturers to repair, recover, or transfer their software.",
+        "Managed hardware and software firewalls to open or restrict access.",
+        "Operating system installation and maintenance (OS and NOS)",
+        "Technical Remote Support.",
+        "Create self-service documentation.",
+        "Deal with Outlook and Exchange issues.",
+        "Migrate Websites to Wordpress and manage domains and mail in Plesk.",
+        "Mass workstation /email migrations"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "ITT-Technical Institute of Technology",
+      "area": "Computer Science in Information Security",
+      "studyType": "Bachelor",
+      "startDate": "2010-12-01",
+      "endDate": "2012-09-01"
+    },
+    {
+      "institution": "ITT-Technical Institute of Technology",
+      "area": "Computer Science in Computer Networking",
+      "studyType": "Associates",
+      "startDate": "2008-07-01",
+      "endDate": "2010-12-01"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Red Hat Certified System Administrator",
+      "date": "2016-03-01",
+      "awarder": "Red Hat"
+    },
+    {
+      "title": "Zabbix Certified Professional",
+      "date": "2015-10-01",
+      "awarder": "Zabbix SIA"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Linux System Admin",
+      "level": "Master",
+      "keywords": [
+        "scripting",
+        "managment",
+        "monitoring",
+        "security",
+        "automation"
+      ]
+    },
+    {
+      "name": "Development",
+      "level": "Beginner",
+      "keywords": [
+        "ruby",
+        "bash",
+        "git",
+        "cookbooks"
+      ]
+    },
+    {
+      "name": "DevOps",
+      "level": "Intermediate",
+      "keywords": [
+        "Chef",
+        "Jenkins",
+        "Rundeck",
+        "testing",
+        "automation"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Development",
+      "keywords": [
+        "CI pipeline",
+        "cookbooks",
+        "chef-compliance",
+        "Inspec",
+        "Ruby"
+      ]
+    },
+    {
+      "name": "Dogs",
+      "keywords": [
+        "Tesla",
+        "Ella",
+        "Moxie"
+      ]
+    },
+    {
+      "name": "Disk Golf",
+      "keywords": [
+        "Innova",
+        "MVP",
+        "Grip"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request."
+    }
+  ]
+}
