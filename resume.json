@@ -40,7 +40,6 @@
         "Ruby and Bash scripting",
         "Experience using Splunk to quickly search through logs, and create dashboards to visualize the data.",
         "Teach other associates in areas I am more knowledgeable.",
-        "Not only work with my team to accomplish task and projects, but also with many other teams across Cerner.",
         "Not only work with my team to accomplish task and projects, but also with many other teams across Cerner, such as: Development, networking, security, infrastructure, and management. Work on an on-call rotation as well as an on-call 24/7 for solutions I am a primary Engineer for."
       ]
     },
@@ -104,6 +103,11 @@
       "title": "Red Hat Certified System Administrator",
       "date": "2016-03-01",
       "awarder": "Red Hat"
+    },
+    {
+      "title": "Chef Fluency Badge",
+      "date": "2017-03-05",
+      "awarder": "Zabbix SIA"
     },
     {
       "title": "Zabbix Certified Professional",
@@ -171,7 +175,7 @@
       ]
     },
     {
-      "name": "Disk Golf",
+      "name": "Disc Golf",
       "keywords": [
         "Innova",
         "MVP",
