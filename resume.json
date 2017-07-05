@@ -48,7 +48,7 @@
       "position": "Linux Support Analyst",
       "website": "https://www.a2hosting.com/",
       "startDate": "2014-02-01",
-      "endDate": "2016-07-26",
+      "endDate": "2014-07-26",
       "summary": "A2 Hosting web hosting company based out of Ann Arbor Michigan. They offer everything from a basic website to high-performance virtual private servers.",
       "highlights": [
         "Work remotely from home.",
@@ -100,6 +100,11 @@
   ],
   "awards": [
     {
+      "title": "Splunk Certified User 6.x",
+      "date": "2017-07-05",
+      "awarder": "Splunk"
+    },
+    {
       "title": "Red Hat Certified System Administrator",
       "date": "2016-03-01",
       "awarder": "Red Hat"
@@ -107,7 +112,7 @@
     {
       "title": "Chef Fluency Badge",
       "date": "2017-03-05",
-      "awarder": "Zabbix SIA"
+      "awarder": "Chef"
     },
     {
       "title": "Zabbix Certified Professional",
