@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Jeremy Miller",
-    "label": "Linux Admin",
+    "label": "Senior Linux Admin",
     "picture": "",
     "email": "jmiller3346@gmail.com",
     "phone": "(567) 686-7085",
@@ -39,6 +39,7 @@
         "Writing and contributing to Chef Cookbooks.",
         "Ruby and Bash scripting",
         "Experience using Splunk to quickly search through logs, and create dashboards to visualize the data.",
+        "Created Splunk dashboards that narrow down all events in our Zabbix logs so we can track down all issues to make sure our consumers can get the most value out of there monitoring by knowing right away when something is not working as expected.",
         "Teach other associates in areas I am more knowledgeable.",
         "Not only work with my team to accomplish task and projects, but also with many other teams across Cerner, such as: Development, networking, security, infrastructure, and management. Work on an on-call rotation as well as an on-call 24/7 for solutions I am a primary Engineer for."
       ]
