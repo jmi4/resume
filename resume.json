@@ -166,11 +166,12 @@
     {
       "name": "Development",
       "keywords": [
-        "CI pipeline",
-        "cookbooks",
-        "chef-compliance",
+        "CI/CD pipeline",
+        "chef cookbooks",
         "Inspec",
-        "Ruby"
+        "Ruby",
+        "Jenkins",
+        "Rundeck"
       ]
     },
     {
@@ -180,14 +181,6 @@
         "Ella",
         "Moxie",
         "Wayside Waifs Animal Shelter Volunteer"
-      ]
-    },
-    {
-      "name": "Disc Golf",
-      "keywords": [
-        "Innova",
-        "MVP",
-        "Grip"
       ]
     }
   ],
