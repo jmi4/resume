@@ -28,11 +28,12 @@
   "work": [
     {
       "company": "Cerner",
-      "position": "System Engineer",
+      "position": "Senior System Engineer",
       "website": "https://cerner.com",
       "startDate": "2014-08-01",
       "summary": "Cerner is a health IT corporation based out of Kansas City Missouri. I work specifically in Cernerworks Emerging Technology Solutions as Linux System Administrator.",
       "highlights": [
+        "Promoted to Senior System Engineer in Q3 of 2017",
         "Manage Zabbix, a monitoring solution in an n+1 highly available environment.",
         "Work in a DevOps environment.",
         "Experience using Chef, creating roles, environment files, encrypted data bags, and bootstrapping servers.",
