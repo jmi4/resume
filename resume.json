@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Jeremy Miller",
-    "label": "Senior Linux Admin",
+    "label": "Senior System Engineer",
     "picture": "",
     "email": "jmiller3346@gmail.com",
     "phone": "(567) 686-7085",
     "website": "https://jeremymiller.me",
-    "summary": "Jeremy hails from North West Ohio and South East Michigan. He has earned hist Bachelors and Associate in Computer Science. Before starting Cerner, he worked for A2 Hosting as a Linux Analyst. While his work focuses being a Linux System Administrator in a large Corporate environment. His passion is in DevOps. He spends most of his personal time working on Chef Cookbooks in a CI pipeline and contributing to writing Inspec test for DISA STIGS",
+    "summary": "Jeremy hails from North West Ohio and South East Michigan. He has earned his Bachelors and Associate in Computer Science. Before starting Cerner he worked for A2 Hosting as a Linux Analyst. While his work focuses being a Senior Linux System Administrator in a large Corporate environment. His passion is in DevOps. He spend a lot of time working towards improving his knowledge in technology interests.",
     "profiles": [
       {
         "network": "LinkedIn",
@@ -33,16 +33,17 @@
       "startDate": "2014-08-01",
       "summary": "Cerner is a health IT corporation based out of Kansas City Missouri. I work specifically in Cernerworks Emerging Technology Solutions as Linux System Administrator.",
       "highlights": [
+        "I primarly work with Splunk now in an administrative role.",
         "Promoted to Senior System Engineer in Q3 of 2017",
-        "Manage Zabbix, a monitoring solution in an n+1 highly available environment.",
+        "Managed Zabbix, a monitoring solution in an n+1 highly available environment.",
         "Work in a DevOps environment.",
         "Experience using Chef, creating roles, environment files, encrypted data bags, and bootstrapping servers.",
         "Writing and contributing to Chef Cookbooks.",
         "Ruby and Bash scripting",
         "Experience using Splunk to quickly search through logs, and create dashboards to visualize the data.",
         "Created Splunk dashboards that narrow down all events in our Zabbix logs so we can track down all issues to make sure our consumers can get the most value out of there monitoring by knowing right away when something is not working as expected.",
-        "Teach other associates in areas I am more knowledgeable.",
-        "Not only work with my team to accomplish task and projects, but also with many other teams across Cerner, such as: Development, networking, security, infrastructure, and management. Work on an on-call rotation as well as an on-call 24/7 for solutions I am a primary Engineer for."
+        "Mentor co-workers to assist in getting new members of our team up to speed.",
+        "Not only work with my team to accomplish task and projects, but also with many other teams across Cerner, such as: Development, networking, security, infrastructure, and management. Work on an on-call rotation as well as an on-call 24/7 for solutions I am a SME for."
       ]
     },
     {
@@ -101,6 +102,16 @@
     }
   ],
   "awards": [
+    {
+      "title": "Splunk Core Certified Power User",
+      "date": "2019-04-22",
+      "awarder": "Splunk"
+    },
+    {
+      "title": "Splunk Core Certified User",
+      "date": "2019-04-22",
+      "awarder": "Splunk"
+    },
     {
       "title": "Splunk Certified User 6.x",
       "date": "2017-07-05",
@@ -166,21 +177,14 @@
     {
       "name": "Development",
       "keywords": [
+        "Splunk",
+        "AWS",
         "CI/CD pipeline",
         "chef cookbooks",
         "Inspec",
         "Ruby",
         "Jenkins",
         "Rundeck"
-      ]
-    },
-    {
-      "name": "Dogs",
-      "keywords": [
-        "Tesla",
-        "Ella",
-        "Moxie",
-        "Wayside Waifs Animal Shelter Volunteer"
       ]
     }
   ],
